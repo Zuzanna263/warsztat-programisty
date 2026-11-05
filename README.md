@@ -1,1 +1,1 @@
-# warsztat_programisty
+# warsztat-programisty
